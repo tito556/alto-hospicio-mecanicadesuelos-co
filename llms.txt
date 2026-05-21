@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Alto Hospicio
+
+> Geotechnical engineering services in Alto Hospicio, Chile.
+
+## Services
+- [Aislacion Sismica](https://alto-hospicio.mecanicadesuelos.co/aislacion-sismica/)
+- [Anclajes](https://alto-hospicio.mecanicadesuelos.co/anclajes/)
+- [Calicatas](https://alto-hospicio.mecanicadesuelos.co/calicatas/)
+- [Cbr Vial](https://alto-hospicio.mecanicadesuelos.co/cbr-vial/)
+- [Cimentaciones](https://alto-hospicio.mecanicadesuelos.co/cimentaciones/)
+- [Columnas Grava](https://alto-hospicio.mecanicadesuelos.co/columnas-grava/)
+- [Densidad Cono Arena](https://alto-hospicio.mecanicadesuelos.co/densidad-cono-arena/)
+- [Ensayo Cpt](https://alto-hospicio.mecanicadesuelos.co/ensayo-cpt/)
+- [Ensayos Proctor](https://alto-hospicio.mecanicadesuelos.co/ensayos-proctor/)
+- [Estabilidad Taludes](https://alto-hospicio.mecanicadesuelos.co/estabilidad-taludes/)
+- [Excavaciones Profundas](https://alto-hospicio.mecanicadesuelos.co/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://alto-hospicio.mecanicadesuelos.co/excavaciones-subterraneo/)
+- [Exploracion](https://alto-hospicio.mecanicadesuelos.co/exploracion/)
+- [Geotecnia Vial](https://alto-hospicio.mecanicadesuelos.co/geotecnia-vial/)
+- [Granulometria](https://alto-hospicio.mecanicadesuelos.co/granulometria/)
+- [Inyecciones](https://alto-hospicio.mecanicadesuelos.co/inyecciones/)
+- [Laboratorio In Situ](https://alto-hospicio.mecanicadesuelos.co/laboratorio-in-situ/)
+- [Laboratorio Lab](https://alto-hospicio.mecanicadesuelos.co/laboratorio-lab/)
+- [Licuefaccion](https://alto-hospicio.mecanicadesuelos.co/licuefaccion/)
+- [Limites Atterberg](https://alto-hospicio.mecanicadesuelos.co/limites-atterberg/)
+- [Losas Fundacion](https://alto-hospicio.mecanicadesuelos.co/losas-fundacion/)
+- [Masw](https://alto-hospicio.mecanicadesuelos.co/masw/)
+- [Mejoramiento](https://alto-hospicio.mecanicadesuelos.co/mejoramiento/)
+- [Microzonificacion Sismica](https://alto-hospicio.mecanicadesuelos.co/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://alto-hospicio.mecanicadesuelos.co/monitoreo-excavaciones/)
+- [Muros Contencion](https://alto-hospicio.mecanicadesuelos.co/muros-contencion/)
+- [Pavimento Flexible](https://alto-hospicio.mecanicadesuelos.co/pavimento-flexible/)
+- [Pavimento Rigido](https://alto-hospicio.mecanicadesuelos.co/pavimento-rigido/)
+- [Permeabilidad In Situ](https://alto-hospicio.mecanicadesuelos.co/permeabilidad-in-situ/)
+- [Pilotes](https://alto-hospicio.mecanicadesuelos.co/pilotes/)
+- [Refraccion Sismica](https://alto-hospicio.mecanicadesuelos.co/refraccion-sismica/)
+- [Resistividad](https://alto-hospicio.mecanicadesuelos.co/resistividad/)
+- [Sismica](https://alto-hospicio.mecanicadesuelos.co/sismica/)
+- [Sondajes Spt](https://alto-hospicio.mecanicadesuelos.co/sondajes-spt/)
+- [Taludes](https://alto-hospicio.mecanicadesuelos.co/taludes/)
+- [Triaxial](https://alto-hospicio.mecanicadesuelos.co/triaxial/)
+- [Tuneles Suelo Blando](https://alto-hospicio.mecanicadesuelos.co/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://alto-hospicio.mecanicadesuelos.co/vibrocompactacion/)
+- [Zapatas](https://alto-hospicio.mecanicadesuelos.co/zapatas/)
+
+## Contact
+- Website: https://alto-hospicio.mecanicadesuelos.co/
+
+## About
+This site provides geotechnical engineering services in Alto Hospicio, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
